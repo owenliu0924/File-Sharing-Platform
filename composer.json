@@ -1,0 +1,10 @@
+{
+    "name": "owenliu0924/file-sharing-platform",
+    "description": "SHD Cloud File Sharing Platform.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.1",
+        "league/oauth2-client": "^2.7.0"
+    }
+}
